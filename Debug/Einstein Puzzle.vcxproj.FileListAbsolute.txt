@@ -1,0 +1,2 @@
+C:\Users\smith\Documents\VS Projects\Einstein Puzzle\Debug\Einstein Puzzle.exe
+C:\Users\smith\Documents\VS Projects\Einstein Puzzle\Debug\Einstein Puzzle.pdb
